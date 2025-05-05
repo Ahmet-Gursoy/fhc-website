@@ -22,7 +22,6 @@
     </div>
     <!-- Page Header End -->
 
-
     <!-- Contact Start -->
     <div class="container-fluid bg-light overflow-hidden px-lg-0" style="margin: 6rem 0;">
         <div class="container contact px-lg-0">
@@ -75,29 +74,9 @@
         </div>
     </div>
     <!-- Contact End -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <!-- Back to Top -->
     <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-circle back-to-top"><i class="bi bi-arrow-up"></i></a>
-
     <?php include 'footer.php' ?>
     <?php include 'js-library.php' ?>
 </body>
-
 </html>
