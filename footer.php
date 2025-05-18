@@ -9,7 +9,10 @@
                     <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>0224 272 0168</p>
                     <br><hr>
                     <p class="mb-2"><i class="fa fa-envelope me-3"></i> info@elmasbahcelerasm.com.tr </p>
-                  
+                    <br><hr>
+                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>HSM:: Bursa İl Sağlık Müdürlüğü </p>
+                  <br><hr>
+                  <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>TSM:: Osmangazi İlçe Sağlık Müdürlüğü</p>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h5 class="text-white mb-4" >Sağlık Hesaplamaları</h5>
@@ -47,12 +50,12 @@
             <div class="copyright">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        &copy; <a href="#">Atlas Yazılım</a>, All Right Reserved.
+                        &copy; <a href="#">Bursa Osmangazi 39 Nolu Elmasbahçeler Aile Sağlığı Merkezi</a>, All Right Reserved.
                     </div>
                     <div class="col-md-6 text-center text-md-end">
                        
-                        Designed By <a href="#">Ahmet Gürsoy</a>
-                        <br>Distributed By: <a href="#" target="_blank">Atlas Yazılım</a>
+                        Designed By <a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAFqSqhIBSdLmazFtbFdK3WO4eHr3u963Sz8&keywords=ahmet%20g%C3%BCrsoy&origin=RICH_QUERY_SUGGESTION&position=0&searchId=7f07cbb9-19f7-4c26-a184-3e1bd3896f90&sid=Xp.&spellCorrectionEnabled=false">Ahmet Gürsoy</a>
+                        <br>Distributed By: <a href="https://atlasyazilim.org/" target="_blank">Atlas Yazılım</a>
                     </div>
                 </div>
             </div>

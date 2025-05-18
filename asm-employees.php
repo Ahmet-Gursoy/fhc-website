@@ -29,7 +29,7 @@
             <div class="row g-4">
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="team-item rounded overflow-hidden">
-                            <img class="img-fluid w-75" src="img/staff.jpg" alt="erkek doktor">
+                            <img class="img-fluid w-75" src="img/staff.png" alt="erkek doktor">
                         <div class="p-4">
                             <h5>Hemşire Sibel İnce</h5>
                         </div>
@@ -38,7 +38,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item rounded overflow-hidden">
                         <div class="d-flex">
-                            <img class="img-fluid w-75" src="img/staff.jpg" alt="">
+                            <img class="img-fluid w-75" src="img/staff.png" alt="">
                         </div>
                         <div class="p-4">
                             <h5>Hemşire Tuba Şahin</h5>
@@ -48,7 +48,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item rounded overflow-hidden">
                         <div class="d-flex">
-                            <img class="img-fluid w-75" src="img/staff.jpg" alt="">
+                            <img class="img-fluid w-75" src="img/staff.png" alt="">
                         </div>
                         <div class="p-4">
                             <h5>Ebe Nur Akgün</h5>
